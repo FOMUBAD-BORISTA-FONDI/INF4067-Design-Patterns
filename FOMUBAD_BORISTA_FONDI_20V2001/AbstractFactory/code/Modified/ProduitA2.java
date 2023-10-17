@@ -1,4 +1,4 @@
-package FOMUBAD_BORISTA_FONDI_20V2001.AbstractFactory.code;
+package FOMUBAD_BORISTA_FONDI_20V2001.AbstractFactory.code.Modified;
 
 public class ProduitA2 extends ProduitA {
 

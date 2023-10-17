@@ -1,4 +1,4 @@
-package Exercise1;
+package Exercise1.Modified;
 
 public class ProductA3  extends ProductA{
     

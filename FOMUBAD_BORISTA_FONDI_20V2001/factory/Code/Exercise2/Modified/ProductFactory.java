@@ -1,4 +1,6 @@
-package Exercise2;
+package Exercise2.Modified;
+
+// import Exercise2.Modified.ProductA;
 
 public abstract class ProductFactory {
 
