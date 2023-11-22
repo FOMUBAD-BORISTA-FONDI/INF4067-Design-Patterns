@@ -1,6 +1,6 @@
 # Software Design Patterns Project
 
-Implementing software design patterns in Java to address common challenges in software design.
+Here, We are implementing software design patterns in Java to address common challenges in software design.
 
 Software design patterns are effective solutions to recurring problems encountered in software development. They are categorized into creational, structural, and behavioral design patterns.
 

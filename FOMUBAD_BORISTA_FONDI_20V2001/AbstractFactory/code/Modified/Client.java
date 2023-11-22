@@ -10,7 +10,7 @@ public class Client {
         ProduitB produitB = null;
         ProduitC produitC = null;
 
-        System.out.println("Utitilisation de la premiere fabrique");
+        System.out.println("Utilisation de la premiere fabrique");
         produitA = produitFactory1.getProduitA();
         produitB = produitFactory1.getProduitB();
         produitC = produitFactory1.getProduitC();
