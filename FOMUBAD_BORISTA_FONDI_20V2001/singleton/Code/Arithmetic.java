@@ -60,7 +60,7 @@ public class Arithmetic {
     }
 
     public void affiche() {
-        System.out.println("\nJe suis une instance mes valuers sont : x = " + this.x + " ,y = " + this.y + " et nom = " + this.nom);
+        System.out.println("\nI am an instance, My values are : x = " + this.x + " ,y = " + this.y + " et nom = " + this.nom);
     }
 
     @Override

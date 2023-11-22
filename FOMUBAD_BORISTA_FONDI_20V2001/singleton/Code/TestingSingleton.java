@@ -9,8 +9,8 @@ public class TestingSingleton {
 
         System.out.printf("The sum is %d\n", som);
         System.out.printf("The difference is %d\n", difference);
-        System.out.printf("The product est %d\n", product);
-        System.out.printf("The Average est %d\n", average);
+        System.out.printf("The product is %d\n", product);
+        System.out.printf("The Average is %d\n", average);
 
         Arithmetic s1 = Arithmetic.getInstance(8, 3);
         s1.affiche();
