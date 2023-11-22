@@ -1,4 +1,4 @@
-# My Software Design Patterns Project
+# Software Design Patterns Project
 
 Implementing software design patterns in Java to address common challenges in software design.
 
