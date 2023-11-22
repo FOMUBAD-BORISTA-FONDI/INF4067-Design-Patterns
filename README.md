@@ -11,16 +11,16 @@ Patterns are organized into folders corresponding to their types.
 ### [Creational Design Patterns]
 These patterns focus on solving problems related to object instantiation.
 
-#### [1. MyFactory Pattern](link-to-your-factory-pattern)
+#### [1. MyFactory Pattern](FOMUBAD_BORISTA_FONDI_20V2001/factory)
 Enhance the object creation process by providing interfaces for creation, enabling implementing classes to determine which class to instantiate. This promotes code reuse and loose coupling between classes.
 
-#### [2. MySingleton Pattern](link-to-your-singleton-pattern)
+#### [2. MySingleton Pattern](FOMUBAD_BORISTA_FONDI_20V2001/singleton)
 Ensure that a class has a single instance while providing global access to this instance. Prevent unnecessary instantiation by making the constructor private and declare a private static field for the singleton class.
 
 #### [3. MyAbstract Factory Pattern](FOMUBAD_BORISTA_FONDI_20V2001/AbstractFactory)
 Similar to the factory pattern, it provides interfaces for creating a family of products instead of a single product.
 
-#### [4. MyBuilder Pattern](link-to-your-builder-pattern)
+#### [4. MyBuilder Pattern](FOMUBAD_BORISTA_FONDI_20V2001/builder)
 Facilitate the creation of complex objects requiring step-by-step initialization. Extract the object creation method, allowing it to be handled by an external builder. Provide an interface for the builder and implement it with concrete builders to create various types of complex objects.
 
 ## Pattern Definitions and Brief explanations
