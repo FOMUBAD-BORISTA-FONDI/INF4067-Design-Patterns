@@ -1,4 +1,4 @@
-package FOMUBAD_BORISTA_FONDI_20V2001.Structural.Decorator.modified.Exercise1;
+package FOMUBAD_BORISTA_FONDI_20V2001.Structural.Decorator.modified.code;
 
 public class FenetreSimple implements Fenetre{
 

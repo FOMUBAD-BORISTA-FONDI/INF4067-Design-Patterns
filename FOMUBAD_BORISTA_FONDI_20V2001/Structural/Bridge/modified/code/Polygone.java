@@ -1,4 +1,4 @@
-package FOMUBAD_BORISTA_FONDI_20V2001.Structural.Bridge.modified.Exercise2;
+package FOMUBAD_BORISTA_FONDI_20V2001.Structural.Bridge.modified.code;
 
 public class Polygone extends Shape{
     public Polygone(Color color) {
