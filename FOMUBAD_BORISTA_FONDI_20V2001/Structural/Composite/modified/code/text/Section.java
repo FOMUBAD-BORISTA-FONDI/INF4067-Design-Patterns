@@ -3,14 +3,14 @@ package FOMUBAD_BORISTA_FONDI_20V2001.Structural.Composite.modified.code.text;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Section extends Texte {
+public class Section extends Text {
 
-    private List<Texte> sousSection = new ArrayList<>();
+    private List<Text> sousSection = new ArrayList<>();
 
     @Override
     public int longeur() {
         int sum = 0;
-        for (Texte texte : sousSection) {
+        for (Text texte : sousSection) {
             sum = sum + texte.longeur();
         }
 
@@ -18,7 +18,7 @@ public class Section extends Texte {
     }
 
     @Override
-    public void ajout(Texte text) {
+    public void ajout(Text text) {
         this.sousSection.add(text);
     }
 
@@ -29,7 +29,7 @@ public class Section extends Texte {
         }
     }
 
-    public List<Texte> getSousection() {
+    public List<Text> getSousection() {
         return this.sousSection;
     }
 

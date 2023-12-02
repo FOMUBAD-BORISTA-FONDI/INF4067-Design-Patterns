@@ -1,7 +1,7 @@
 package FOMUBAD_BORISTA_FONDI_20V2001.Structural.Composite.modified.code.text;
 
 
-public class Paragraphe extends Texte {
+public class Paragraphe extends Text {
 
     @Override
     public int longeur() {
@@ -9,7 +9,7 @@ public class Paragraphe extends Texte {
     }
 
     @Override
-    public void ajout(Texte text) {
+    public void ajout(Text text) {
         setPreambule(getPreambule());
     }
 
