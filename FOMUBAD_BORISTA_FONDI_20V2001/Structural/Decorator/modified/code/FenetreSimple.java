@@ -10,6 +10,6 @@ public class FenetreSimple implements Fenetre{
 
     @Override
     public void decrire() {
-        System.out.println("Decrire Fenetre Simple");
+        System.out.println("Decore Fenetre Simple");
     }
 }

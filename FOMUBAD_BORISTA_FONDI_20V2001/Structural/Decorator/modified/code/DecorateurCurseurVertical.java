@@ -15,7 +15,7 @@ public class DecorateurCurseurVertical extends DecorateurFenetre {
     @Override
     public void decrire() {
         super.decrire();
-        System.out.println("Decore Decrire DecorateurCurseurVertical");
+        System.out.println("Decorate Decrire DecorateurCurseurVertical");
     }
 
     public void dessineCurseurVertical() {
