@@ -6,7 +6,7 @@ Software design patterns are effective solutions to recurring problems encounter
 
 ## Project Structure
 
-Patterns are organized into folders corresponding to their types.
+All the Patterns are organized into folders corresponding to their types.
 
 These folders are:
 
