@@ -9,8 +9,8 @@ public abstract class calculeMontantTtc {
         
     }
     public void  afficher() {
-        System.out.println("Le montant HT est de : " + montantHt);
-        System.out.println("Le montant de la TVA est de : " + montantva);
-        System.out.println("Le montant TTC est de : " + montantTtc);
+        System.out.println("The HT Price is at : " + montantHt);
+        System.out.println("The TVA Price is at : " + montantva);
+        System.out.println("The TTC Price is at : " + montantTtc);
     }
 }

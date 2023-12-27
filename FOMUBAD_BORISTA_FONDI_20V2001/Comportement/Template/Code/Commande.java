@@ -21,8 +21,8 @@ public abstract class Commande {
     protected abstract float calculeTva();
 
     public void affiche() {
-        System.out.println("Montant HT: " + montantHt);
-        System.out.println("Montant TVA: " + montantTva);
-        System.out.println("Montant TTC: " + montantTtc);
+        System.out.println("HT Price: " + montantHt);
+        System.out.println("TVA Price: " + montantTva);
+        System.out.println("TTC Price: " + montantTtc);
     }
 }

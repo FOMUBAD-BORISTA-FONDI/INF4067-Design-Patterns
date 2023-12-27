@@ -6,7 +6,7 @@ public class CommandeGabon extends Commande {
 
     @Override
     protected float calculeTva() {
-        // Taux de TVA au Gabon: 18%
+        // TVA tax in Gabon: 18%
         return montantHt * 0.18f;
     }
 }
