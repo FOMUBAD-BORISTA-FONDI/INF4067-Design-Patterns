@@ -32,11 +32,11 @@ public class ImageImpl implements Image {
 
     @Override
     public void compresser() {
-        System.out.println("Implémenter la compression de l'image selon le format");
+        System.out.println("Implementing the compression of the image by their format");
     }
 
     @Override
     public void appliquerFiltre(Filtre filtre) {
-         System.out.println("Implémenter l'application du filtre sur l'image");
+         System.out.println("Implementing application of the filter on the image");
     }
 }

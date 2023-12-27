@@ -3,11 +3,11 @@ public class FiltreContraste implements Filtre {
 
     @Override
     public String getNom() {
-        return "Contraste";
+        return "Contrast";
     }
 
     @Override
     public void appliquer(Image image) {
-       System.out.println("Implémenter le filtre contraste sur l'image");
+       System.out.println("Implementing the contrast filter on the image");
     }
 }
