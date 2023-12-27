@@ -1,5 +1,5 @@
 
-public class Client {
+public class Cleint {
     public static void main(String[] args) {
         Image image = new ImageImpl("image.jpg", "JPEG");
 
