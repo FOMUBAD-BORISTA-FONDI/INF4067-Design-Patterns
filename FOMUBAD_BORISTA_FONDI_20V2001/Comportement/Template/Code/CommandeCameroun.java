@@ -6,7 +6,7 @@ public class CommandeCameroun extends Commande {
 
     @Override
     protected float calculeTva() {
-        // TVA tax in Cameroun: 19.25%
+        //The TVA tax in Cameroun: 19.25%
         return montantHt * 0.1925f;
     }
 }
