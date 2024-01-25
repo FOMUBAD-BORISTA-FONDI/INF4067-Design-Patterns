@@ -4,7 +4,7 @@ Here, I am implementing software design patterns in Java to address common chall
 
 Software design patterns are effective solutions to re-ocurring problems encountered in software development. They are categorized into creational, structural, and behavioral design patterns.
 
-## Project Structure
+## Project Structure and links
 
 All the Patterns are organized into folders corresponding to their types.
 
